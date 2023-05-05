@@ -33,4 +33,5 @@ public class Person {
             throw new WrongPasswordException("Параметры password и confirmPassword не равны!");
         }
     }
+
 }
